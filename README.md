@@ -19,14 +19,14 @@
   </a>
 </p>
 
-### Olá pessoal, sejam bem-vindos ao meu GitHub 👋
+## Olá pessoal, sejam bem-vindos ao meu GitHub 👋
 
-<br/>Meu nome é Flávio, sou Analista de Sistemas Junior na CI&T :man_technologist:
+## <br/>Meu nome é Flávio, sou Analista de Sistemas Junior na CI&T :man_technologist:
 
-## <br/>.🎓 Estudante de Ciência da Computação :man_technologist:
+## <br/>🎓 Estudante de Ciência da Computação :man_technologist:
 
 
-### 🚀 Linguagens e Ferramentas:</summary>
+## 🚀 Linguagens e Ferramentas:</summary>
 
 <p align="left">
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
@@ -48,7 +48,7 @@
 
 #
 
-### ⚡ Github Stats</b></summary>
+## ⚡ Github Stats</b></summary>
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioReisSouza&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default" />	
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioReisSouza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
@@ -56,4 +56,4 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flavioReisSouza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 </div>
 
-<br/>Obrigado pela visita.
+## <br/>Obrigado pela visita.
