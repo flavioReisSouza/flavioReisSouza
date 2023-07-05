@@ -2,7 +2,7 @@
 
 ## Desenvolvedor em formação: Back-end :man_technologist: <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/flavio-dos-reis-souza-flavioreis)](https://www.linkedin.com/in/www.linkedin.com/in/flavio-dos-reis-souza-flavioreis)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/https://www.linkedin.com/in/flavio-dos-reis-souza-flavioreis/)](https://www.linkedin.com/in/www.linkedin.com/in/https://www.linkedin.com/in/flavio-dos-reis-souza-flavioreis/)
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flavioreissouza@gmail.com)](mailto:flavioreissouza@gmail.com/)
