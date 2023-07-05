@@ -1,6 +1,6 @@
 ## Flávio Reis :man_technologist: <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-## Desenvolvedor Back-end :man_technologist:
+## Desenvolvedor em formação Back-end :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-dos-reis-souza-55a5aa14b)](www.linkedin.com/in/flavio-dos-reis-souza-55a5aa14b)
 
