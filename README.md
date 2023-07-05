@@ -23,7 +23,8 @@
 
 <br/>Meu nome é Flávio, sou Analista de Sistemas Junior na CI&T :man_technologist:
 
-<br/>.🎓 Estudante de Ciência da Computação :man_technologist:
+## <br/>.🎓 Estudante de Ciência da Computação :man_technologist:
+
 
 ### 🚀 Linguagens e Ferramentas:</summary>
 
