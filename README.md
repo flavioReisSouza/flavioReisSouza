@@ -1,6 +1,6 @@
 ## Flávio Reis :man_technologist: <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-… Desenvolvedor Back-end :man_technologist:
+## Desenvolvedor Back-end :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-dos-reis-souza-55a5aa14b)](www.linkedin.com/in/flavio-dos-reis-souza-55a5aa14b)
 
@@ -20,40 +20,27 @@
 
 ### Olá pessoal, sejam bem-vindos ao meu GitHub 👋
 
-<br/>Meu nome é Flávio, sou Analista de Sistemas Junior na CI&T. :man_technologist:
+<br/>Meu nome é Flávio, sou Analista de Sistemas Junior na CI&T :man_technologist:
 
-<br/>.🎓 Estudante de Ciência da Computação. :man_technologist:
+<br/>.🎓 Estudante de Ciência da Computação :man_technologist:
 
 ### 🚀 Languages and Tools:</summary>
 
 <p align="left">
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
-
 <img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
-
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
-
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
-
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" /></code>
-
 <img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></code>
-
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
-
 <img width="25" height="25" src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" title="Insomnia" alt="Insomnia" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
-
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" /></code>
-
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
-
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
-
 <img width="22" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
-
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
-
 <img width="25" height="25" src="https://github.com/simple-icons/simple-icons/blob/master/icons/flyway.svg" title="FlyWay" alt="FlyWay"/>
 </p>
 
