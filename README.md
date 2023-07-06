@@ -19,7 +19,7 @@
   </a>
 </p>
 
-## Olá pessoal, sejam bem-vindos ao meu GitHub 👋
+## Olá pessoal, sejam bem-vindos ao meu GitHub!!!
 
 ## <br/>Meu nome é Flávio, sou Analista de Sistemas Junior na CI&T :man_technologist:
 
@@ -56,4 +56,4 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flavioReisSouza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 </div>
 
-## <br/>Obrigado pela visita. o/
+## <br/>Obrigado pela visita 👋
